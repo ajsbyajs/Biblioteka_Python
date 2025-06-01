@@ -19,5 +19,33 @@
         "year": "2001",
         "pages": "520",
         "copies": 4
+    },
+    {
+        "title": "W g\u0142\u0119bi lasu",
+        "author": "Harlan Coben",
+        "year": "2007",
+        "pages": "358",
+        "copies": 1
+    },
+    {
+        "title": "Biznes oparty na danych. Zesp\u00f3\u0142 ekspert\u00f3w, sztuczna inteligencja i analityka jako klucz do sukcesu",
+        "author": "John K. Thompson, Douglas B. Laney",
+        "year": "2024",
+        "pages": "256",
+        "copies": 8
+    },
+    {
+        "title": "Excel 365. Biblia",
+        "author": "Michael Alexander",
+        "year": "2015",
+        "pages": "896",
+        "copies": 3
+    },
+    {
+        "title": "Excel Power Pivot i Power Query dla bystrzak\u00f3w",
+        "author": "Michael Alexander",
+        "year": "2025",
+        "pages": "280",
+        "copies": 2
     }
 ]
