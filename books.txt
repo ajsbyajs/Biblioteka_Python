@@ -1,0 +1,23 @@
+[
+    {
+        "title": "Dracula",
+        "author": "Stoker Bram",
+        "year": "1897",
+        "pages": "325",
+        "copies": 3
+    },
+    {
+        "title": "Harry Potter i Kamie\u0144 Filozoficzny",
+        "author": "J.K.Rowling",
+        "year": "2002",
+        "pages": "336",
+        "copies": 2
+    },
+    {
+        "title": "L\u015bnienie",
+        "author": "Stephen King",
+        "year": "2001",
+        "pages": "520",
+        "copies": 4
+    }
+]
